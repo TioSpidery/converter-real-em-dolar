@@ -6,7 +6,7 @@ botao.addEventListener("click", function () {
 
     const real = Number(valorReal.value);
 
-    const cotacao = 5.50;
+    const cotacao = 5.15;
 
     const dolar = real / cotacao;
 
