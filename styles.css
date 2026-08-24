@@ -30,11 +30,19 @@ h1{
     text-align: center;
     font-size: 26px;
     font-weight: 300;
+    color: #8c52ff;
 }
 
 input{
     width: 230px;
     height: 35px;
+    border-radius: 15px;
+    border-color: #8c52ff;
+    text-align: center;
+}
+
+input::placeholder {
+    color: #8c52ff;
 }
 
 button{
