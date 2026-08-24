@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none
 }
 
 body {
@@ -55,4 +56,9 @@ button{
     font-size: 18px;
     color: white;
     cursor: pointer;
+}
+
+p{
+    text-align: center;
+    color: #8c52ff;
 }
